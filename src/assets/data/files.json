@@ -1,0 +1,62 @@
+[
+        {
+            "label": "Lazy Node 0",
+            "data": "Node 0",
+            "expandedIcon": "fa fa-folder-open",
+            "collapsedIcon": "fa fa-folder",
+            "children": [{
+                "label": "Work",
+                "data": "Work Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.1.1", "data": "Expenses Document"}, {"label": "Work 1.1.2", "icon": "fa fa-file-word-o", "data": "Resume Document"}]
+            },
+            {
+                "label": "Home",
+                "data": "Home Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.2",  "data": "Invoices for this month"}]
+            }]
+        },
+        {
+            "label": "Lazy Node 1",
+            "data": "Node 1",
+            "expandedIcon": "fa fa-folder-open",
+            "collapsedIcon": "fa fa-folder",
+            "children": [{
+                "label": "Work",
+                "data": "Work Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.1.1", "data": "Expenses Document"}, {"label": "Work 1.1.2", "icon": "fa fa-file-word-o", "data": "Resume Document"}]
+            },
+            {
+                "label": "Home",
+                "data": "Home Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.2",  "data": "Invoices for this month"}]
+            }]
+        },
+        {
+            "label": "Lazy Node 2",
+            "data": "Node 2",
+            "expandedIcon": "fa fa-folder-open",
+            "collapsedIcon": "fa fa-folder",
+            "children": [{
+                "label": "Work",
+                "data": "Work Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.1.1", "data": "Expenses Document"}, {"label": "Work 1.1.2", "icon": "fa fa-file-word-o", "data": "Resume Document"}]
+            },
+            {
+                "label": "Home",
+                "data": "Home Folder",
+                "expandedIcon": "fa fa-folder-open",
+                "collapsedIcon": "fa fa-folder",
+                "children": [{"label": "Work 1.2",  "data": "Invoices for this month"}]
+            }]
+        }
+    ]
